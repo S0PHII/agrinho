@@ -29,6 +29,8 @@ color: var(--fundo-principal); display: flex; height: 12vh;
     display: flex; margin: 7px;height: 44px; width: 55px;
 }
 
-.input-field {
-    width: 10px;
-height: 5px; position: absolute; display: flex; align-items: center;}
+.input-fiel {
+    margin: 12px;
+    height: 37px;
+    width: 430px;
+}
