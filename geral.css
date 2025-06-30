@@ -30,7 +30,14 @@ color: var(--fundo-principal); display: flex; height: 12vh;
 }
 
 .input-fiel {
+    background-color: var(--barra-pesquisa);
     margin: 12px;
     height: 37px;
     width: 430px;
+}
+.lupinha { 
+    width: 28px;
+    height: 28px;
+    align-items: center;
+    margin-top: 17px;
 }
