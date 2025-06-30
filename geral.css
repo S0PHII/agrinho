@@ -37,6 +37,10 @@ color: var(--fundo-principal); display: flex; height: 12vh;
     border-radius: 24px;
     border: var(--barra-pesquisa);
 }
+input[type="text"]::placeholder{
+    font-size: 25px;margin-left: 10px;
+}
+
 .lupinha { 
     width: 28px;
     height: 28px;
