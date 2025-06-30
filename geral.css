@@ -18,14 +18,16 @@ h1{
     font-size: 9vh; margin-left: 4vh; align-items: center; color: var(--fundo-principal);
 }
 .sub {
-    font-size: 60px;
-    margin-top: 10px ; margin-left: 10px; 
+    position: absolute;
+    font-size: 15px;
+    margin-top: 52px;
+    margin-left: 116px
 }
 body {
     background-color: var(--fundo-principal);
 }
 .cabeçalho {
-color: var(--fundo-principal); display: flex; height: 12vh;
+color: var(--fundo-principal); display: flex; height: 13vh;
     background-color: var(--cabeçalho-quebras);
     
 }
