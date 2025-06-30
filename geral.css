@@ -1,0 +1,17 @@
+:root {
+    --fundo-principal: #CBEEB8;
+    --cabeçalho-quebras: #56684E;
+    --imagens-galeria: #253021;
+    --barra-pesquisa: #E9D0A4;
+    --tijolo: #963F2E;
+    --salmão: #DF735D;
+    --dourado: #CC9B59; 
+    --branco: #FFFFFF; 
+    --vermelho-maça: #770000;
+
+
+}
+
+body {
+    background-color: var(--fundo-principal);
+}
