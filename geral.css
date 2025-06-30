@@ -46,4 +46,5 @@ input::placeholder{
     height: 28px;
     align-items: center;
     margin-top: 17px;
+    position: absolute;
 }
