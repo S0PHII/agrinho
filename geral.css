@@ -32,7 +32,7 @@ color: var(--fundo-principal); display: flex; height: 13vh;
     
 }
 .logoMaçazinha {
-    display: flex; margin: 7px;height: 44px; width: 55px;
+    display: flex; margin-left: 8px;margin-top: 12px; height: 44px; width: 55px;
 }
 
 .input-fiel {
