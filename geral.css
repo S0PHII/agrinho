@@ -60,11 +60,15 @@ input::placeholder{
     display: inline-block;
 }
 .drop button {
-    background-color: #2C3627;
+  background-color: #2C3627;
     border: var(--cabeçalho-quebras);
     color: #FFFFFF;
-    font-size: 25px;
-cursor: pointer;
+    font-size: 61px;
+    width: 71px;
+    height: 62px;
+    cursor: pointer;
+    margin-top: 8px;
+   
 }
 
 .drop a{
@@ -77,10 +81,10 @@ cursor: pointer;
 
 .drop .conteudo {
     display: none;
+    margin-left: 29px;
     background-color: #2C3627;
     position: absolute;
     min-width: 100px;
-
 }
 
 .drop:hover .conteudo{display: block;}
