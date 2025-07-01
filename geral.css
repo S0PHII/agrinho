@@ -38,7 +38,7 @@ color: var(--fundo-principal); display: flex; height: 13vh;
 .input-fiel {
     background-color: var(--barra-pesquisa);
     margin: 12px;
-        margin-left: 210px;
+        margin-left: 78px;
     padding: 6px;
     height: 37px;
     width: 488px;
@@ -59,7 +59,7 @@ input::placeholder{
 }
 .drop {
     display: inline-block;
-    margin-left: -20px;
+    margin-left: 90px;
 }
 .drop button {
   background-color: #2C3627;
