@@ -60,6 +60,7 @@ input::placeholder{
     display: inline-block;
 }
 .drop button {
+    border: none;
     background-color: transparent;
 cursor: pointer;
 }
@@ -84,5 +85,11 @@ cursor: pointer;
 
 .drop a:hover {
     background-color: #1b2417;
+}
+
+
+.iconeMenu {
+    width: 10px;
+    height: 10px;
 }
 
