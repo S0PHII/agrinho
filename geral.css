@@ -60,8 +60,10 @@ input::placeholder{
     display: inline-block;
 }
 .drop button {
+    background-color: #2C3627;
     border: var(--cabeçalho-quebras);
-    
+    color: #FFFFFF;
+    font-size: 25px;
 cursor: pointer;
 }
 
@@ -88,10 +90,5 @@ cursor: pointer;
 }
 
 
-.iconeMenu {
-    position: absolute;
-    border: var(--cabeçalho-quebras);
-    width: 2vh;
-    height: 2vh;
-}
+
 
