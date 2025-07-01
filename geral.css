@@ -32,12 +32,13 @@ color: var(--fundo-principal); display: flex; height: 13vh;
     
 }
 .logoMaçazinha {
-    display: flex; margin-left: 8px;margin-top: 12px; height: 44px; width: 55px;
+    display: flex; position:absolute; margin-left:  540px;margin-top: 12px; height: 44px; width: 55px;
 }
 
 .input-fiel {
     background-color: var(--barra-pesquisa);
     margin: 12px;
+        margin-left: 210px;
     padding: 6px;
     height: 37px;
     width: 488px;
@@ -58,6 +59,7 @@ input::placeholder{
 }
 .drop {
     display: inline-block;
+    margin-left: -20px;
 }
 .drop button {
   background-color: #2C3627;
@@ -81,7 +83,7 @@ input::placeholder{
 
 .drop .conteudo {
     display: none;
-    margin-left: 29px;
+    
     background-color: #2C3627;
     position: absolute;
     min-width: 100px;
