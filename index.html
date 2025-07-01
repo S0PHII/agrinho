@@ -18,28 +18,33 @@ type="text"
 class="input-fiel" 
 placeholder="    Pesquisar">
 <img class="lupinha" src="lupa.png" alt="">
-        </div>
-           <div> <a href="#" id="toggle"><span> </span></a>
-            <div id="menu">
-                <ul>
-                <li><a href="#">opção 1</a></li>
-                <li><a href="#">opção 2</a></li>
-                <li><a href="#">opção 3</a></li>
-                <li><a href="#">opção 4</a></li>
+       
+<ul class="menu">
+<span id="icon" onclick="menu(this)">=</span>
+<div id="list">
+<li><a href="#">opção 1</a>
+<a href="#">opção 2</a>
+<a href="#">opção 3</a>
+<a href="#">opção 4</a>
+</li>
 
+</div>
 
-            </ul>
-           </div>
-            </div>
-
-
-
-            <script> document.queryselector('#toggle'). addEventListener('click', function() {document.queryselector('#toggle'). classlist.toggle('visible');} )</script>
+</ul>
         
-
-            
-        
-
+<script>
+    var x=0; var element= document.GetElementById("list");
+    function menu(icon) {
+        if(x==0)
+    { icon.style.transform = "rotate(45deg)"; element.classList.add( "animate");
+        x=1;
+    }
+    else {
+        icon.style.transform = "rotate(0deg)"; elemente.classList.remove("animate");
+        x=0;
+    }
+    }
+</script>
 
     </header>
     
