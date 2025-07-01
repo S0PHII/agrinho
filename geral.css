@@ -61,7 +61,7 @@ input::placeholder{
 }
 .drop button {
     border: var(--cabeçalho-quebras);
-    background-color: transparent;
+    
 cursor: pointer;
 }
 
