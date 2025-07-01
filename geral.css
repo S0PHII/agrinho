@@ -91,7 +91,7 @@ cursor: pointer;
 .iconeMenu {
     position: absolute;
     border: var(--cabeçalho-quebras);
-    width: 10px;
-    height: 10px;
+    width: 2vh;
+    height: 2vh;
 }
 
