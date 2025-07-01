@@ -18,34 +18,17 @@ type="text"
 class="input-fiel" 
 placeholder="    Pesquisar">
 <img class="lupinha" src="lupa.png" alt="">
-       <div>
-<ul class="menu">
-<span id="icon" onclick="menu(this)">=</span>
-<div id="list">
-<li><a href="#">opção 1</a>
-<a href="#">opção 2</a>
-<a href="#">opção 3</a>
-<a href="#">opção 4</a>
-</li>
-</div>
+       <div class="drop">
+<button> <img src="menu.png" alt=""> </button>
+<div class="conteudo">
+<a href="#">Opção 1</a>
+<a href="#">Opção 2</a>
+<a href="#">Opção 3</a>
+<a href="#">Opção 4</a>
+
 </div>
 
-</ul>
-        
-<script>
-    var x=0; var element= document.GetElementById("list");
-    function menu(icon) {
-        if(x==0)
-    { icon.style.transform = "rotate(45deg)"; element.classList.add( "animate");
-        x=1;
-    }
-    else {
-        icon.style.transform = "rotate(0deg)"; elemente.classList.remove("animate");
-        x=0;
-    }
-    }
-</script>
-
+       </div>
     </header>
     
 </body>

@@ -56,48 +56,33 @@ input::placeholder{
     margin-left: 174vh;
     position: absolute;
 }
-
-.menu {
-    list-style: none;
-    color: #fff;
-    width: 150px;
-    text-align: center;
+.drop {
+    display: inline-block;
+}
+.drop button {
+    background-color: transparent;
+cursor: pointer;
 }
 
-#icon {
-    cursor: pointer;
+.drop a{
     display: block;
-    background-color: var(--tijolo);
-    width: 50px;
-    padding: 8px 0px;
-    font-size: 30px;
-    margin: auto;
-    border-radius: 25px;
-    transition: all 0.3s;
+    Color: #ffff;
+    text-decoration: none;
+    padding: 5px 10px;
 
 }
 
-#list {
-    background-color: var(--dourado);
-    padding: 25px 0px;
-    border-radius: 14px;
-    margin-top: 2px;
-    transition: all 0.3s;
-    transform: scale(0);
-
-}
-#list li {
-    padding: 15px 0px;
+.drop .conteudo {
+    display: none;
+    background-color: #2C3627;
+    position: absolute;
+    min-width: 100px;
 
 }
 
-#list li a {
-text-decoration: none;
-color: #fff;
-font-size: 14px;
+.drop:hover .conteudo{display: block;}
+
+.drop a:hover {
+    background-color: #1b2417;
 }
 
-.animate {
-    transform: scale(1) !important;
-
-}
