@@ -60,7 +60,7 @@ input::placeholder{
     display: inline-block;
 }
 .drop button {
-    border: none;
+    border: var(--cabeçalho-quebras);
     background-color: transparent;
 cursor: pointer;
 }
