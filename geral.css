@@ -151,13 +151,16 @@ input::placeholder{
 }
 
 .caixa1 {
-   background-color: var(--tijolo); 
-   width: 20px;
-height: 10px;   
+           background-color: var(--tijolo);
+        margin: 5vh 110px;
+        width: 95vh;
+        height: 26vh;
 }
 .caixa1 img{
-    height: 15vh;
-    width: 30px;
-}
+            margin: 10px;
+        height: 24vh;
+        width: 39vh;
+    }
+
 
     }
