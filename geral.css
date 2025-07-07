@@ -162,8 +162,8 @@ input::placeholder{
         width: 39vh;
     }
 
-    .caixa1 h3 {
-        
+    .caixa1 .h3 {
+display: flexbox;
     }
 
 
