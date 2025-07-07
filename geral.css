@@ -150,5 +150,10 @@ input::placeholder{
     margin-left: 99vh;
 }
 
+.caixa1 {
+   background-color: var(--tijolo); 
+   width: 20px;
+height: 10px;   
+}
 
     }
