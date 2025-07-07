@@ -155,15 +155,18 @@ input::placeholder{
         margin: 5vh 110px;
         width: 95vh;
         height: 26vh;
+
 }
-.caixa1 img{
+.caixa1 img {
             margin: 10px;
         height: 24vh;
         width: 39vh;
+        display: flex; flex-direction: row; align-items: center;
     }
 
 .h3 {
-    display: flex;
+
+    display: flex; flex-direction: row; align-items: center;
     }
 
 
