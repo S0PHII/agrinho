@@ -95,6 +95,60 @@ input::placeholder{
     background-color: #1b2417;
 }
 
+@media screen and (max-width: 1920px ) {
+    
+    h1 {
+    font-size: 9vh;
+    margin-left: 4vh;
+    align-items: center;
+    color: var(--fundo-principal);}
+
+.sub {
+    position: absolute;
+    font-size: 15px;
+    margin-top: 92px;
+    margin-left: 299px;
+
+}
+.logoMaçazinha{
+   
+    display: flex;
+    position: absolute;
+    margin-left: 846px;
+    margin-top: 18px;
+    height: 54px;
+    width: 68px;
+}
+
+.input-fiel {
+    background-color: var(--barra-pesquisa);
+    margin: 12px;
+    margin-top: 19px;
+    margin-left: 99vh;
+    padding: 6px;
+    height: 52px;
+    width: 752px;
+    border-radius: 24px;
+    border: var(--barra-pesquisa);
+    position: absolute;
+}
 
 
 
+.lupinha {
+    width: 33px;
+    height: 33px;
+    align-items: center;
+    margin-top: 33px;
+    margin-left: 174vh;
+    position: absolute;
+}
+
+.drop {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 99vh;
+}
+
+
+    }
