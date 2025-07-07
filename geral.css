@@ -155,5 +155,9 @@ input::placeholder{
    width: 20px;
 height: 10px;   
 }
+.caixa img{
+    height: 15vh;
+    width: 30px;
+}
 
     }
