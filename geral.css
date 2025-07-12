@@ -109,9 +109,10 @@ input::placeholder{
         display: flex; flex-direction: row; align-items: center;
     }
 
-.h3 {
-
-    display: flex; flex-direction: row; align-items: center;
+h3 {
+ display: flex; 
+ flex-direction: row; 
+ align-items: center;
     }
 
 
