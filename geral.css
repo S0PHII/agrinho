@@ -127,9 +127,9 @@ color: #431810;
   
 .caixa2 {
            background-color: var(--salmão);
-       margin: 9vh 31px;
-        width: 95vh;
-        height: 26vh;
+           margin: 6vh 31px;
+    width: 95vh;
+    height: 29vh;
 
 }
 
@@ -137,10 +137,13 @@ color: #431810;
     cursor: pointer;
 }
 .caixa2 img {
-       margin-left: 2px;
+       margin-left: 7px;
+    margin-right: 1vh;
+    margin-top: 1vh;
     height: 24vh;
     padding: 6px;
     width: 39vh;
+
     }
 
 
