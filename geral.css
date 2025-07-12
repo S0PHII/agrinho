@@ -154,6 +154,20 @@ font-size: 33px;
 color: #823829;
   }
 
+.introdução {
+    background-color: #CC9B59;
+    display: inline-block;
+    width: 12vh;
+    height: 14vh;
+    position: absolute;
+    margin-top: 6vh;
+    margin-left: 200px;
+}
+
+.texto {
+    background-color: var(--branco);
+    padding: 5vh;
+}
 
 
 
