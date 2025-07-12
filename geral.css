@@ -103,10 +103,11 @@ input::placeholder{
 
 }
 .caixa1 img {
-            margin: 10px;
-        height: 24vh;
-        width: 39vh;
-        display: flex; flex-direction: row; align-items: center;
+       margin-left: 2px;
+    height: 24vh;
+    padding: 6px;
+    width: 39vh;
+    display: flex;
     }
 
 h3 {
