@@ -107,9 +107,9 @@ input::placeholder{
     cursor: pointer;
 }
 .caixa1 img {
-       margin-left: 2px;
+       margin-left: 10px;
     margin-right: 1vh;
-    margin-top: 1vh;
+    margin-top: -1vh;
     height: 24vh;
     padding: 6px;
     width: 39vh;
@@ -121,7 +121,7 @@ input::placeholder{
     align-items: center;
   }
 
-  h3 {
+  .caixa1 h3 {
 margin: 21px;
 font-size: 25px;
 color: #431810;
@@ -147,6 +147,12 @@ color: #431810;
     width: 39vh;
 
     }
+
+    .caixa2 h3 {
+margin: 21px;
+font-size: 25px;
+color: #823829;
+  }
 
 
 
