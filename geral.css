@@ -102,6 +102,10 @@ input::placeholder{
         height: 26vh;
 
 }
+
+.caixa1 :hover{
+    cursor: pointer;
+}
 .caixa1 img {
        margin-left: 2px;
     height: 24vh;
@@ -114,6 +118,13 @@ input::placeholder{
     display: flex;
     align-items: center;
   }
+
+  h3 {
+margin: 21px;
+font-size: 25px;
+color: #431810;
+  }
+  
 
 
 
