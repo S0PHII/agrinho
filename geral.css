@@ -107,15 +107,13 @@ input::placeholder{
     height: 24vh;
     padding: 6px;
     width: 39vh;
+    }
+
+
+  .conteiner {
     display: flex;
-    }
-
-h3 {
- display: flex; 
- flex-direction: row; 
- align-items: center;
-    }
-
+    align-items: center;
+  }
 
 
 
