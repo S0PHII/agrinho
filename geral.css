@@ -95,7 +95,7 @@ input::placeholder{
     background-color: #1b2417;
 }
 
-@media screen and (max-width: 1360px ) {
+@media screen and (width: 1360px ) {
         .sub {
         position: absolute;
         font-size: 15px;
@@ -143,7 +143,7 @@ input::placeholder{
     }
 }
 
-@media screen and (max-width: 1920px ) {
+@media screen and (width: 1920px ) {
     
     h1 {
     font-size: 9vh;
