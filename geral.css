@@ -95,6 +95,68 @@ input::placeholder{
     background-color: #1b2417;
 }
 
+.caixa1 {
+           background-color: var(--tijolo);
+        margin: 5vh 110px;
+        width: 95vh;
+        height: 26vh;
+
+}
+.caixa1 img {
+            margin: 10px;
+        height: 24vh;
+        width: 39vh;
+        display: flex; flex-direction: row; align-items: center;
+    }
+
+.h3 {
+
+    display: flex; flex-direction: row; align-items: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (width: 1360px ) {
         .sub {
         position: absolute;
@@ -142,6 +204,55 @@ input::placeholder{
         margin-left: 114vh;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media screen and (width: 1920px ) {
     
