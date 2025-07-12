@@ -97,7 +97,7 @@ input::placeholder{
 
 .caixa1 {
            background-color: var(--tijolo);
-        margin: 5vh 110px;
+       margin: 6vh 31px;
         width: 95vh;
         height: 26vh;
 
@@ -125,7 +125,23 @@ font-size: 25px;
 color: #431810;
   }
   
+.caixa2 {
+           background-color: var(--salmão);
+       margin: 9vh 31px;
+        width: 95vh;
+        height: 26vh;
 
+}
+
+.caixa2 :hover{
+    cursor: pointer;
+}
+.caixa2 img {
+       margin-left: 2px;
+    height: 24vh;
+    padding: 6px;
+    width: 39vh;
+    }
 
 
 
