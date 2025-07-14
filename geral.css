@@ -195,7 +195,7 @@ color: #823829;
 
 .quebra {
     background-color: var(--cabeçalho-quebras);
-    height: 20vh;
+    height: 14vh;
 
 }
 
@@ -203,6 +203,17 @@ color: #823829;
     color: var(--branco);
     text-align: center;
     padding: 2vh;
+}
+
+.scroll-container {
+  background-color: var(--imagens-galeria);
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+.scroll-container img {
+  padding: 10px;
 }
 
 
