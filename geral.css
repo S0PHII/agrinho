@@ -89,7 +89,7 @@ input::placeholder{
     min-width: 100px;
 }
 
-.drop:hover .conteudo{display: block; z-index: 1;}
+.drop:hover .conteudo{display: block;}
 
 .drop a:hover {
     background-color: #1b2417;
