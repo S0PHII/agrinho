@@ -100,13 +100,12 @@ input::placeholder{
            margin: 6vh 31px;
     width: 95vh;
     height: 29vh;
- transition: background-color 0.3s ease
+ 
 }
 
 .caixa1 :hover{
     cursor: pointer;
-    background-color: #5c2318;
-    color: #36130c;
+    
 }
 .caixa1 img {
        margin-left: 10px;
@@ -134,13 +133,12 @@ color: #431810;
            margin: 6vh 31px;
     width: 95vh;
     height: 29vh;
-transition: background-color 0.3s ease
+
 }
 
 .caixa2 :hover{
     cursor: pointer;
-    background-color: #9e4e3e;
-    color: #6b3024;
+    
 }
 .caixa2 img {
        margin-left: 7px;
@@ -195,6 +193,12 @@ color: #823829;
     margin-left: 2vh;
 }
 
+.quebra {
+    background-color: var(--cabeçalho-quebras);
+    color: var(--branco);
+    height: 20vh;
+    
+}
 
 
 
