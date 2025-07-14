@@ -83,13 +83,13 @@ input::placeholder{
 
 .drop .conteudo {
     display: none;
-    
+    z-index: 1;
     background-color: #2C3627;
     position: absolute;
     min-width: 100px;
 }
 
-.drop:hover .conteudo{display: block;}
+.drop:hover .conteudo{display: block; z-index: 1;}
 
 .drop a:hover {
     background-color: #1b2417;
