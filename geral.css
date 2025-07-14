@@ -155,21 +155,33 @@ color: #823829;
   }
 
 .introdução {
-    background-color: #CC9B59;
+       background-color: #CC9B59;
     display: inline-block;
-    width: 12vh;
-    height: 14vh;
+    width: 98vh;
+    height: 64vh;
     position: absolute;
-    margin-top: 6vh;
-    margin-left: 200px;
+    margin-top: -70vh;
+    margin-left: 111vh;
+    padding: 0vh;
 }
 
 .texto {
     background-color: var(--branco);
-    padding: 5vh;
+    padding: 6vh;
+    height: 41vh;
+    margin: 5vh;
+   
 }
 
+.texto h1 {
+    color: #674336;
+    font-size: 10vh;
+}
 
+.texto p {
+    color: #CC9B59;
+     font-size: 6vh;
+}
 
 
 
