@@ -203,6 +203,11 @@ color: #823829;
     color: var(--branco);
     text-align: center;
     padding: 2vh;
+
+}
+.quebra img{
+    width: 5vh;
+    height: 6vh;
 }
 
 .scroll-container {
