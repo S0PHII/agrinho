@@ -200,12 +200,14 @@ color: #823829;
 }
 
 .quebra h1{
+    display: flex;
     color: var(--branco);
     text-align: center;
     padding: 2vh;
 
 }
 .quebra img{
+    display: flex;
     width: 5vh;
     height: 6vh;
 }
