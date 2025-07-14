@@ -200,7 +200,7 @@ color: #823829;
 }
 
 .quebra h1{
-    display: flex;
+   
     color: var(--branco);
     text-align: center;
     padding: 2vh;
