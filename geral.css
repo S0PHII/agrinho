@@ -208,8 +208,10 @@ color: #823829;
 }
 .quebra img{
     display: flex;
-    width: 5vh;
-    height: 6vh;
+    width: 8vh;
+    margin-top: -12vh;
+    margin-left: 79vh;
+    height: 8vh;
 }
 
 .scroll-container {
