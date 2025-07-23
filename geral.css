@@ -231,6 +231,20 @@ color: #823829;
   width: 32vh;
 }
 
+.widget {
+    
+width: 95vh;
+height: 73vh;
+}
+
+.caixote {
+    margin-top: 20vh;
+    margin-left: 31px;
+    background-color: #963F2E;
+    width: 105vh;
+    height: 83vh;
+}
+
 
 
 
