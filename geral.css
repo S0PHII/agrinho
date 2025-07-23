@@ -227,6 +227,10 @@ color: #823829;
   width: 32vh;
 }
 
+.caixas:hover {
+    transform: scale(1.1);
+}
+
 
 
 
