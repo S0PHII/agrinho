@@ -231,12 +231,19 @@ color: #823829;
   width: 32vh;
 }
 
-.ww_e811096f022c8 {
-    margin: 33px;
-    padding: 4vh;
+#ww_e811096f022c8 {
+    background-color: #0097A7;
+    width: 97vh;
+    background-image: url(https://app3.weatherwidget.org/skin/img/bg/clear_day.jpg);
 }
     
-
+#ww_e811096f022c8 .ww-box {
+    vertical-align: baseline;
+    padding: 0;
+    height: 56vh;
+    width: 93vh;
+    margin: 0;
+    padding: 10px;
 
 .caixote {
    margin-top: 6vh;
@@ -245,6 +252,22 @@ color: #823829;
     width: 116vh;
     height: 76vh;
 }
+
+#ww_e811096f022c8 {
+    vertical-align: baseline;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+    
+    text-align: center;
+    position: relative;
+    font-size: 15px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    min-width: 111px;
+    line-height: normal;
 
 
 
