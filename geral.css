@@ -96,14 +96,16 @@ input::placeholder{
 }
 
 .caixa1 {
-           background-color: var(--tijolo);
-           margin: 6vh 31px;
+    transition: all .2s ease-in-out;
+    background-color: var(--tijolo);
+    margin: 6vh 31px;
     width: 95vh;
     height: 29vh;
  
 }
 
 .caixa1 :hover{
+    transform: scale(1.0);
     cursor: pointer;
     
 }
@@ -129,14 +131,16 @@ color: #431810;
   }
   
 .caixa2 {
-           background-color: var(--salmão);
-           margin: 6vh 31px;
+    transition: all .2s ease-in-out;
+    background-color: var(--salmão);
+    margin: 6vh 31px;
     width: 95vh;
     height: 29vh;
 
 }
 
 .caixa2 :hover{
+    transform: scale(1.0);
     cursor: pointer;
     
 }
@@ -227,13 +231,9 @@ color: #823829;
   width: 32vh;
 }
 
-.caixas{
-    transition: all .2s ease-in-out
-}
 
-.caixas:hover {
-    transform: scale(1.1);
-}
+
+
 
 
 
