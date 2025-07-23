@@ -227,10 +227,13 @@ color: #823829;
   width: 32vh;
 }
 
-.caixas:hover {
-    transform: scaleX(97vh); transform: scaleY(31vh);
+.caixas{
+    transition: all .2s ease-in-out
 }
 
+.caixas:hover {
+    transform: scale(1.1);
+}
 
 
 
