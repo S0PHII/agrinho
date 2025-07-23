@@ -228,7 +228,7 @@ color: #823829;
 }
 
 .caixas:hover {
-    transform: scale(1.1);
+    transform: scaleX(97vh); transform: scaleY(31vh);
 }
 
 
