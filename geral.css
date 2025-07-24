@@ -238,7 +238,7 @@ color: #823829;
     background-color: #963F2E;
     width: 116vh;
    margin-bottom: 6vh;
-   height: 65vh;
+   height: 105vh;
 }
 
 .not1 {
@@ -246,7 +246,7 @@ color: #823829;
     position: absolute;
     height: 32vh;
     width: 77vh;
-    
+    margin-top: 60vh;
     margin-left: 131vh;
 }
 
@@ -261,7 +261,7 @@ color: #823829;
     position: absolute;
     height: 32vh;
     width: 77vh;
-   
+    margin-top: 63vh;
     margin-left: 131vh;
 }
 
@@ -276,7 +276,7 @@ color: #823829;
     position: absolute;
     height: 32vh;
     width: 77vh;
-   
+    margin-top: 66vh;
     margin-left: 131vh;
 }
 
@@ -286,10 +286,7 @@ color: #823829;
     padding: 3vh;
 }
 
-.noticias {
-    margin-top:  60vh ;
-    row-gap: 6vh;
-}
+
 
 
 
