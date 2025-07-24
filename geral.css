@@ -324,7 +324,12 @@ color: #823829;
     cursor: pointer;
 }
 
-.color:hover {
+.color1:hover {
+    transform: scale(1.1);
+    transform-origin: center;
+}
+
+.color2:hover {
     transform: scale(1.1);
     transform-origin: center;
 }
