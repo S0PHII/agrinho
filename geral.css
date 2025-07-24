@@ -96,7 +96,7 @@ input::placeholder{
 }
 
 .caixa1 {
-    transition: all .2s ease-in-out;
+    
     background-color: var(--tijolo);
     margin: 6vh 31px;
     width: 95vh;
@@ -133,7 +133,7 @@ color: #431810;
   }
   
 .caixa2 {
-    transition: all .2s ease-in-out;
+    
     background-color: var(--salmão);
     margin: 6vh 31px;
     width: 95vh;
