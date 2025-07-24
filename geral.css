@@ -326,7 +326,7 @@ color: #823829;
 
 .color1:hover {
     transform: scale(0.9);
-    transform-origin: bottom;
+    transform-origin: center;
 }
 
 .color2:hover {
