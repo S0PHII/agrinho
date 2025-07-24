@@ -120,7 +120,7 @@ input::placeholder{
     }
 
 
-  .conteiner1 .conteiner2 {
+  .conteiner {
     display: flex;
     align-items: center;
     
