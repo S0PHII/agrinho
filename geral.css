@@ -326,12 +326,12 @@ color: #823829;
 
 .color1:hover {
     transform: scale(0.9);
-    transform-origin: center;
+    transform-origin: bottom;
 }
 
 .color2:hover {
     transform: scale(0.9);
-    transform-origin: center;
+    transform-origin: top;
 }
 
 
