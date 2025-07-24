@@ -124,9 +124,13 @@ input::placeholder{
   .conteiner1 .conteiner2 {
     display: flex;
     align-items: center;
+    
+  }
+  .conteiner1 .conteiner2:hover {
     transform: scale(1.1);
     transform-origin: center;
   }
+  
 
   .caixa1 h3 {
 margin: 21px;
