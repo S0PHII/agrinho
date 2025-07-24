@@ -101,11 +101,13 @@ input::placeholder{
     margin: 6vh 31px;
     width: 95vh;
     height: 29vh;
+     transition: 0.3s;
  
 }
 
 .caixa1 :hover{
-    transform: scale(1.0);
+    transform: scale(1.1);
+    transform-origin: center;
     cursor: pointer;
     
 }
@@ -136,11 +138,13 @@ color: #431810;
     margin: 6vh 31px;
     width: 95vh;
     height: 29vh;
+     transition: 0.3s;
 
 }
 
 .caixa2 :hover{
-    transform: scale(1.0);
+    transform: scale(1.1);
+    transform-origin: center;
     cursor: pointer;
     
 }
@@ -251,7 +255,7 @@ color: #823829;
     transition: 0.3s;
 }
 .not1:hover {
-    transform: scaleY(1.0);
+    transform: scaleY(0.9);
   transform-origin: center
 }
 .not1 img {
@@ -289,7 +293,7 @@ color: #823829;
      transition: 0.3s;
 }
 .not3:hover {
-    transform: scaleY(0.8);
+    transform: scaleY(0.9);
   transform-origin: center
 }
 .not3 img {
