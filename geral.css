@@ -106,8 +106,7 @@ input::placeholder{
 }
 
 .caixa1 :hover{
-    transform: scale(1.1);
-    transform-origin: center;
+   
     cursor: pointer;
     
 }
@@ -126,10 +125,7 @@ input::placeholder{
     align-items: center;
     
   }
-  .conteiner1 .conteiner2:hover {
-    transform: scale(1.1);
-    transform-origin: center;
-  }
+  
   
 
   .caixa1 h3 {
@@ -149,8 +145,7 @@ color: #431810;
 }
 
 .caixa2 :hover{
-    transform: scale(1.1);
-    transform-origin: center;
+   
     cursor: pointer;
     
 }
