@@ -325,13 +325,17 @@ color: #823829;
 }
 
 .color1:hover {
-    transform: scale(0.9);
-    transform-origin: center;
+    background-color: #68372d;
+    color: #41211a;
+    transition: 0.2s;
+    
 }
 
 .color2:hover {
-    transform: scale(0.9);
-    transform-origin: top;
+    background-color: #53241a;
+    color: #31150f;
+    transition: 0.2s;
+    
 }
 
 
