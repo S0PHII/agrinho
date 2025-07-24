@@ -324,7 +324,10 @@ color: #823829;
     cursor: pointer;
 }
 
-
+.color {
+    transform: scale(1.1);
+    transform-origin: center;
+}
 
 
 
