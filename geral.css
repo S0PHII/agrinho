@@ -106,7 +106,10 @@ input::placeholder{
 }
 
 .caixa1 :hover{
-   
+   background-color: #53241a;
+    color: #31150f;
+    transition: 0.2s;
+    
     cursor: pointer;
     
 }
@@ -145,7 +148,9 @@ color: #431810;
 }
 
 .caixa2 :hover{
-   
+   background-color: #68372d;
+    color: #41211a;
+    transition: 0.2s;
     cursor: pointer;
     
 }
@@ -325,16 +330,11 @@ color: #823829;
 }
 
 .color1:hover {
-    background-color: #68372d;
-    color: #41211a;
-    transition: 0.2s;
+    
     
 }
 
 .color2:hover {
-    background-color: #53241a;
-    color: #31150f;
-    transition: 0.2s;
     
 }
 
