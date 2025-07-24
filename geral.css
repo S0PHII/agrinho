@@ -250,7 +250,7 @@ color: #823829;
     margin-left: 131vh;
     transition: 0.3s;
 }
-.not1: :hover {
+.not1:hover {
     transform: scaleY(1.2);
   transform-origin: bottom;
 }
