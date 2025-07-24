@@ -232,7 +232,6 @@ color: #823829;
 }
 
 
-
 .caixote {
    margin-top: 6vh;
     margin-left: 35px;
@@ -242,7 +241,20 @@ color: #823829;
    height: 65vh;
 }
 
+.not1 {
+    background-color: var(--salmão);
+    position: absolute;
+    height: 20vh;
+    width: 40vh;
+    margin-top: 100vh;
+    margin-left: 40vh;
+}
 
+.no1 img {
+     padding: 2vh;
+     height: 14vh;
+     width: 34vh;
+}
 
 
 
