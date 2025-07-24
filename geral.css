@@ -303,7 +303,9 @@ color: #823829;
 }
 
 
-
+.noticias:hover {
+    cursor: pointer;
+}
 
 
 
