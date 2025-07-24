@@ -252,7 +252,7 @@ color: #823829;
 }
 .not1:hover {
     transform: scaleY(1.2);
-  transform-origin: bottom;
+  transform-origin: center
 }
 .not1 img {
     height: 26vh;
