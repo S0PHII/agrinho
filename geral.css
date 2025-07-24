@@ -256,6 +256,36 @@ color: #823829;
     padding: 3vh;
 }
 
+.not2 {
+       background-color: var(--salmão);
+    position: absolute;
+    height: 32vh;
+    width: 77vh;
+    margin-top: -61vh;
+    margin-left: 131vh;
+}
+
+.not2 img {
+    height: 26vh;
+    width: 71vh;
+    padding: 3vh;
+}
+
+.not3 {
+       background-color: var(--salmão);
+    position: absolute;
+    height: 32vh;
+    width: 77vh;
+    margin-top: -61vh;
+    margin-left: 131vh;
+}
+
+.not3 img {
+    height: 26vh;
+    width: 71vh;
+    padding: 3vh;
+}
+
 
 
 
