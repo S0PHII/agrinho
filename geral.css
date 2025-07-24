@@ -286,7 +286,13 @@ color: #823829;
     padding: 3vh;
 }
 
+.escrita {
 
+    background-color: transparent;
+    color:  var(--cabeçalho-quebras);
+    font-size: 10vh;
+    position: absolute;
+}
 
 
 
