@@ -246,7 +246,7 @@ color: #823829;
     position: absolute;
     height: 32vh;
     width: 77vh;
-    margin-top: -61vh;
+    
     margin-left: 131vh;
 }
 
@@ -261,7 +261,7 @@ color: #823829;
     position: absolute;
     height: 32vh;
     width: 77vh;
-    margin-top: -61vh;
+   
     margin-left: 131vh;
 }
 
@@ -276,7 +276,7 @@ color: #823829;
     position: absolute;
     height: 32vh;
     width: 77vh;
-    margin-top: -61vh;
+   
     margin-left: 131vh;
 }
 
@@ -286,6 +286,9 @@ color: #823829;
     padding: 3vh;
 }
 
+.noticias {
+    margin-top:  60vh ;
+}
 
 
 
