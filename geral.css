@@ -242,18 +242,18 @@ color: #823829;
 }
 
 .not1 {
-    background-color: var(--salmão);
+       background-color: var(--salmão);
     position: absolute;
-    height: 20vh;
-    width: 40vh;
-    margin-top: 100vh;
-    margin-left: 40vh;
+    height: 32vh;
+    width: 77vh;
+    margin-top: -61vh;
+    margin-left: 131vh;
 }
 
 .not1 img {
-     padding: 2vh;
-     height: 14vh;
-     width: 34vh;
+    height: 26vh;
+    width: 71vh;
+    padding: 3vh;
 }
 
 
