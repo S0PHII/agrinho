@@ -248,8 +248,12 @@ color: #823829;
     width: 77vh;
    margin-top: -110vh;
     margin-left: 131vh;
+    transition: 0.3s;
 }
-
+.not1: :hover {
+    transform: scaleY(1.2);
+  transform-origin: bottom;
+}
 .not1 img {
     height: 26vh;
     width: 71vh;
