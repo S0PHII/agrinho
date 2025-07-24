@@ -267,8 +267,12 @@ color: #823829;
     width: 77vh;
    margin-top: -74vh;
     margin-left: 131vh;
+     transition: 0.3s;
 }
-
+.not2:hover {
+    transform: scaleY(0.9);
+  transform-origin: center
+}
 .not2 img {
     height: 26vh;
     width: 71vh;
@@ -282,8 +286,12 @@ color: #823829;
     width: 77vh;
       margin-top: -38vh;
     margin-left: 131vh;
+     transition: 0.3s;
 }
-
+.not3:hover {
+    transform: scaleY(0.8);
+  transform-origin: center
+}
 .not3 img {
     height: 26vh;
     width: 71vh;
