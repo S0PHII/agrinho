@@ -14,6 +14,7 @@
 *{
     margin: 0; padding: 0;
 }
+
 h1{
     font-size: 9vh; margin-left: 4vh; align-items: center; color: var(--fundo-principal);
 }
@@ -337,22 +338,19 @@ color: #823829;
     margin-left: 2vh;
 }
 
-.conect .cidade h1 {
-    color: var(--salmão);
-    
 
-}
 
 .conect { 
    position: absolute;
     font-size: 15vh;
     margin-top: 89vh;
+    color: #431810;
 }
 
 .cidade {
     position: absolute;
     font-size: 7vh;
-   
+   color: #431810;
     margin-top: 5vh;
     margin: 8vh;
 }
