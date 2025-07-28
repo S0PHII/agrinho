@@ -333,14 +333,14 @@ color: #823829;
 }
 
 .caixote video {
-    margin-top: 12vh;
-    padding: 6vh;
+    margin-top: 22vh;
+    margin-left: 2vh;
 }
 
 .caixote h1 {
     color: var(--salmão);
     text-align: center;
-    
+
 }
 
 
