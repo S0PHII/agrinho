@@ -129,8 +129,7 @@ input::placeholder{
 
   .conteiner :hover {
     color: #FFFFFF;
-    width: 95vh;
-    height: 29vh;
+   transform: scale(1.0);
   }
   
   
