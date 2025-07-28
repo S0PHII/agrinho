@@ -107,10 +107,8 @@ input::placeholder{
 
 .caixa1 :hover{
    background-color: #53241a;
-    color: #31150f;
     transition: 0.2s;
-    
-    cursor: pointer;
+     cursor: pointer;
     
 }
 .caixa1 img {
@@ -130,7 +128,9 @@ input::placeholder{
   }
 
   .conteiner :hover {
-    color: #FFFFFF
+    color: #FFFFFF;
+    width: 95vh;
+    height: 29vh;
   }
   
   
