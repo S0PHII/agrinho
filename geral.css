@@ -332,6 +332,10 @@ color: #823829;
     cursor: pointer;
 }
 
+.caixote video {
+    margin-top: 12vh;
+    padding: 6vh;
+}
 
 
 
