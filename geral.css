@@ -337,7 +337,11 @@ color: #823829;
     padding: 6vh;
 }
 
-
+.caixote h1 {
+    color: var(--salmão);
+    text-align: center;
+    
+}
 
 
 
