@@ -337,10 +337,20 @@ color: #823829;
     margin-left: 2vh;
 }
 
-.caixote h1 {
+.conect .cidade {
     color: var(--salmão);
     text-align: center;
 
+}
+
+.conect { 
+    position:absolute;
+margin-top: 50vh;
+}
+
+.cidade {
+    position:absolute;
+margin-top: 30vh;
 }
 
 
