@@ -147,9 +147,9 @@ color: #431810;
 
 }
 
-.caixa2 :hover{
+.caixa2 .caixa2 h3 :hover{
    background-color: #68372d;
-    color: #41211a;
+    color: #FFFFFF;
     transition: 0.2s;
     cursor: pointer;
     
