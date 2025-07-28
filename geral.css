@@ -128,6 +128,10 @@ input::placeholder{
     align-items: center;
     
   }
+
+  .conteiner :hover {
+    color: #FFFFFF
+  }
   
   
 
@@ -147,7 +151,7 @@ color: #431810;
 
 }
 
-.caixa2 .caixa2 h3 :hover{
+.caixa2 :hover{
    background-color: #68372d;
     color: #FFFFFF;
     transition: 0.2s;
