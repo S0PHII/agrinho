@@ -337,20 +337,24 @@ color: #823829;
     margin-left: 2vh;
 }
 
-.conect .cidade {
+.conect .cidade h1 {
     color: var(--salmão);
     text-align: center;
 
 }
 
 .conect { 
-    position:absolute;
-margin-top: 50vh;
+   position: absolute;
+    font-size: 15vh;
+    margin-top: 89vh;
 }
 
 .cidade {
-    position:absolute;
-margin-top: 30vh;
+    position: absolute;
+    font-size: 7vh;
+   
+    margin-top: 5vh;
+    margin: 8vh;
 }
 
 
