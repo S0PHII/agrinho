@@ -138,7 +138,7 @@ color: #431810;
   }
   
 .caixa2 {
-    
+    border-bottom: transparent;
     background-color: var(--salmão);
     margin: 6vh 31px;
     width: 95vh;
@@ -329,14 +329,7 @@ color: #823829;
     cursor: pointer;
 }
 
-.color1:hover {
-    
-    
-}
 
-.color2:hover {
-    
-}
 
 
 
