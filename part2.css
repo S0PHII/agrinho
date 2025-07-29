@@ -124,13 +124,17 @@ input::placeholder{
 
 }
 
+.c1 h2 :hover {
+    color:#7f9971
+}
+
 .c2 {
    background-color: var(--caixa-esquerda);
     height: 30vh;
     width: 98vh;
     margin: 6vh;
     transition: 0.3s all;
-    margin-top: 20vh;
+    margin-top: 7vh;
 }
 
 .c2 h2 {
@@ -151,4 +155,8 @@ input::placeholder{
     cursor: pointer;
     transform: scale(0.9);
 
+}
+
+.c2 h2 :hover {
+    color:#7f9971
 }
