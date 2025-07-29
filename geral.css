@@ -355,6 +355,24 @@ color: #823829;
     margin: 8vh;
 }
 
+footer {
+    height: 12vh;
+    background-color: var(--cabeçalho-quebras);
+     color: var(--branco);
+    
+}
+
+footer h1 {
+    font-size: 6vh;
+    display: flex;
+}
+
+footer img {
+    width: 40vh;
+    height: 10vh;
+    display: flex;
+}
+
 
 
 
