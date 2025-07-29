@@ -250,7 +250,7 @@ color:#7f9971;
 
 }
 
-.c5 {
+.c6 {
  background-color: var(--caixa-direita);
     height: 30vh;
     width: 98vh;
@@ -261,7 +261,7 @@ color:#7f9971;
     margin-left: 111vh;
 }
 
-.c5 h2 {
+.c6 h2 {
     font-size: 23px;
     color: black;
     margin-left: 26vh;
@@ -270,12 +270,12 @@ color:#7f9971;
 
 }
 
-.c5 img{
+.c6 img{
     height: 25vh;
     padding: 3vh;
 }
 
-.c5 :hover {
+.c6 :hover {
     cursor: pointer;
     transform: scale(0.9);
     color:#caaf63;
