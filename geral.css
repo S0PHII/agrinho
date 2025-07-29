@@ -363,14 +363,18 @@ footer {
 }
 
 footer h1 {
-    font-size: 6vh;
-    display: flex;
-}
+ font-size: 11vh;
+    margin-left: 26vh;
+    position: absolute;
+    display: flex; }
 
 footer img {
-    width: 40vh;
+    width: 76vh;
     height: 10vh;
-    display: flex;
+    position: absolute;
+    margin-left: 112vh;
+    display: flex
+;
 }
 
 
