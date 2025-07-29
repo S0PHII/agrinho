@@ -123,3 +123,31 @@ input::placeholder{
     transform: scale(0.9);
 
 }
+
+.c2 {
+   background-color: var(--caixa-esquerda);
+    height: 30vh;
+    width: 98vh;
+    margin: 6vh;
+    transition: 0.3s all;
+}
+
+.c2 h2 {
+    font-size: 23px;
+    color: black;
+    margin-left: 26vh;
+    margin-top: -27vh;
+    padding: 0vh;
+
+}
+
+.c2 img{
+    height: 25vh;
+    padding: 3vh;
+}
+
+.c2 :hover {
+    cursor: pointer;
+    transform: scale(0.9);
+
+}
