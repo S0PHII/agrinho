@@ -1,0 +1,97 @@
+:root {
+    --fundo-principal: #DF735D;
+    --cabeçalho-quebras: #963F2E;
+    --imagens-galeria: #253021;
+    --barra-pesquisa: #E9D0A4;
+    --caixa-esquerda: #CBEEB8;
+    --caixa-direita: #ECE491;
+    --branco: #FFFFFF;
+    --menu: #602418; 
+   
+
+
+}
+*{
+    margin: 0; padding: 0;
+}
+
+h1{
+    font-size: 9vh; margin-left: 4vh; align-items: center; color: var(--fundo-principal);
+}
+.sub {
+    position: absolute;
+    font-size: 15px;
+    margin-top: 56px;
+    margin-left: 164px
+}
+body {
+    background-color: var(--fundo-principal);
+}
+.cabeçalho {
+color: var(--fundo-principal); display: flex; height: 13vh;
+    background-color: var(--cabeçalho-quebras);
+    
+}
+.logoMaçazinha {
+    display: flex; position:absolute; margin-left:  540px;margin-top: 12px; height: 44px; width: 55px;
+}
+
+.input-fiel {
+    background-color: var(--barra-pesquisa);
+    margin: 12px;
+        margin-left: 78px;
+    padding: 6px;
+    height: 37px;
+    width: 488px;
+    border-radius: 24px;
+    border: var(--barra-pesquisa);
+}
+input::placeholder{
+    font-size: 15px; margin: 100px; color: var(--barra-pesquisa);
+}
+
+.lupinha { 
+    width: 28px;
+    height: 28px;
+    align-items: center;
+    margin-top: 23px;
+    margin-left: 174vh;
+    position: absolute;
+}
+.drop {
+    display: inline-block;
+    margin-left: 90px;
+}
+.drop button {
+  background-color: var(--menu);
+    border: var(--cabeçalho-quebras);
+    color: #FFFFFF;
+    font-size: 61px;
+    width: 71px;
+    height: 62px;
+    cursor: pointer;
+    margin-top: 8px;
+   
+}
+
+.drop a{
+    display: block;
+    Color: #ffff;
+    text-decoration: none;
+    padding: 5px 10px;
+
+}
+
+.drop .conteudo {
+    display: none;
+    z-index: 1;
+    background-color: var(--menu);
+    position: absolute;
+    min-width: 100px;
+}
+
+.drop:hover .conteudo{display: block;}
+
+.drop a:hover {
+    background-color: #511D13;
+}
