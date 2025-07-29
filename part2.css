@@ -95,3 +95,18 @@ input::placeholder{
 .drop a:hover {
     background-color: #511D13;
 }
+
+.c1 {
+    background-color: var(--caixa-esquerda);
+    height: 15vh;
+    width: 25vh;
+}
+
+.c1 h2 {
+    font-size: 12vh;
+    color: var(--branco);
+    text-align: center;
+    margin-left: 6vh;
+    padding: 2vh;
+
+}
