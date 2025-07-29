@@ -160,3 +160,36 @@ input::placeholder{
 .c2 h2 :hover {
     color:#7f9971
 }
+
+.c3 {
+   background-color: var(--caixa-esquerda);
+    height: 30vh;
+    width: 98vh;
+    margin: 6vh;
+    transition: 0.3s all;
+    margin-top: 7vh;
+}
+
+.c3 h2 {
+    font-size: 23px;
+    color: black;
+    margin-left: 26vh;
+    margin-top: -27vh;
+    padding: 0vh;
+
+}
+
+.c3 img{
+    height: 25vh;
+    padding: 3vh;
+}
+
+.c3 :hover {
+    cursor: pointer;
+    transform: scale(0.9);
+
+}
+
+.c3 h2 :hover {
+    color:#7f9971
+}
