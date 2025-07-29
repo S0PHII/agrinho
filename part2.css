@@ -101,7 +101,7 @@ input::placeholder{
     height: 30vh;
     width: 98vh;
     margin: 6vh;
-    transition: 0.3s;
+    transition: 0.3s all;
 }
 
 .c1 h2 {
