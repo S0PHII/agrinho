@@ -187,14 +187,14 @@ color:#7f9971;
 }
 
 .c4 {
-   background-color: var(--caixa-direita);
+ background-color: var(--caixa-direita);
     height: 30vh;
     width: 98vh;
     margin: 6vh;
     transition: 0.3s all;
-    margin-top: 7vh;
+    margin-top: -110vh;
     position: absolute;
-    margin-left: 40vh;
+    margin-left: 111vh;
 }
 
 .c4 h2 {
@@ -212,6 +212,38 @@ color:#7f9971;
 }
 
 .c4 :hover {
+    cursor: pointer;
+    transform: scale(0.9);
+    color:#caaf63;
+
+}
+
+.c5 {
+ background-color: var(--caixa-direita);
+    height: 30vh;
+    width: 98vh;
+    margin: 6vh;
+    transition: 0.3s all;
+    margin-top: -117vh;
+    position: absolute;
+    margin-left: 111vh;
+}
+
+.c5 h2 {
+    font-size: 23px;
+    color: black;
+    margin-left: 26vh;
+    margin-top: -27vh;
+    padding: 0vh;
+
+}
+
+.c5 img{
+    height: 25vh;
+    padding: 3vh;
+}
+
+.c5 :hover {
     cursor: pointer;
     transform: scale(0.9);
     color:#caaf63;
