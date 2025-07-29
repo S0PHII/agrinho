@@ -121,12 +121,9 @@ input::placeholder{
 .c1 :hover {
     cursor: pointer;
     transform: scale(0.9);
-
+color:#7f9971;
 }
 
-.c1 h2 :hover {
-    color:#7f9971
-}
 
 .c2 {
    background-color: var(--caixa-esquerda);
@@ -154,12 +151,10 @@ input::placeholder{
 .c2 :hover {
     cursor: pointer;
     transform: scale(0.9);
-
+color:#7f9971;
 }
 
-.c2 h2 :hover {
-    color:#7f9971
-}
+
 
 .c3 {
    background-color: var(--caixa-esquerda);
@@ -187,9 +182,38 @@ input::placeholder{
 .c3 :hover {
     cursor: pointer;
     transform: scale(0.9);
+    color:#7f9971;
 
 }
 
-.c3 h2 :hover {
-    color:#7f9971
+.c4 {
+   background-color: var(--caixa-direita);
+    height: 30vh;
+    width: 98vh;
+    margin: 6vh;
+    transition: 0.3s all;
+    margin-top: 7vh;
+    position: absolute;
+    margin-left: 40vh;
+}
+
+.c4 h2 {
+    font-size: 23px;
+    color: black;
+    margin-left: 26vh;
+    margin-top: -27vh;
+    padding: 0vh;
+
+}
+
+.c4 img{
+    height: 25vh;
+    padding: 3vh;
+}
+
+.c4 :hover {
+    cursor: pointer;
+    transform: scale(0.9);
+    color:#caaf63;
+
 }
