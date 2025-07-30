@@ -97,20 +97,28 @@ input::placeholder{
 }
 
 .b1 {
-    background-color: var(--caixa-esquerda);
-    height: 20vh;
-    width: 10vh;
+       background-color: var(--caixa-esquerda);
+    height: 105vh;
+    width: 46vh;
     margin: 6vh;
+    margin-bottom: 2vh;
+    transition: transform 250ms;
 }
 
 .b1 h2 {
-    font-size: 20vh;
+    font-size: 3vh;
+    margin-top: -6vh;
+    padding: 3vh;
     text-align: center;
     color: #FFFFFF;
 }
 
 .b1 img {
-    width: 5vh;
-    height: 5vh;
-    padding: 2vh;
+    width: 35vh;
+    height: 35vh;
+    padding: 5vh;
+}
+
+.b1 :hover {
+    transform: translateY(-10px);
 }
