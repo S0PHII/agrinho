@@ -131,7 +131,7 @@ input::placeholder{
     width: 46vh;
     margin: 6vh;
     margin-bottom: 2vh;
-    margin-left: 30vh;
+    margin-left: 58vh;
     position: absolute;
     transition: transform 250ms;
 }
@@ -162,7 +162,7 @@ input::placeholder{
     margin: 6vh;
     margin-bottom: 2vh;
     position: absolute;
-    margin-left: 60vh;
+    margin-left: 111vh;
     transition: transform 250ms;
 }
 
@@ -192,7 +192,7 @@ input::placeholder{
     margin: 6vh;
     margin-bottom: 2vh;
     position: absolute;
-    margin-left: 90vh;
+    margin-left: 163vh;
     transition: transform 250ms;
 }
 
