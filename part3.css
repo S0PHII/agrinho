@@ -101,6 +101,7 @@ input::placeholder{
     height: 105vh;
     width: 46vh;
     margin: 6vh;
+    position: absolute;
     margin-bottom: 2vh;
     transition: transform 250ms;
 }
@@ -121,4 +122,95 @@ input::placeholder{
 
 .b1 :hover {
     transform: translateY(-10px);
+    cursor: pointer;
+}
+
+.b2 {
+       background-color: var(--caixa-direita);
+    height: 105vh;
+    width: 46vh;
+    margin: 6vh;
+    margin-bottom: 2vh;
+    margin-left: 30vh;
+    position: absolute;
+    transition: transform 250ms;
+}
+
+.b2 h2 {
+    font-size: 3vh;
+    margin-top: -6vh;
+    padding: 3vh;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.b2 img {
+    width: 35vh;
+    height: 35vh;
+    padding: 5vh;
+}
+
+.b2 :hover {
+    transform: translateY(-10px);
+    cursor: pointer;
+}
+
+.b3 {
+       background-color: var(--caixa-esquerda);
+    height: 105vh;
+    width: 46vh;
+    margin: 6vh;
+    margin-bottom: 2vh;
+    position: absolute;
+    margin-left: 60vh;
+    transition: transform 250ms;
+}
+
+.b3 h2 {
+    font-size: 3vh;
+    margin-top: -6vh;
+    padding: 3vh;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.b3 img {
+    width: 35vh;
+    height: 35vh;
+    padding: 5vh;
+}
+
+.b3 :hover {
+    transform: translateY(-10px);
+    cursor: pointer;
+}
+
+.b4 {
+       background-color: var(--caixa-direita);
+    height: 105vh;
+    width: 46vh;
+    margin: 6vh;
+    margin-bottom: 2vh;
+    position: absolute;
+    margin-left: 90vh;
+    transition: transform 250ms;
+}
+
+.b4 h2 {
+    font-size: 3vh;
+    margin-top: -6vh;
+    padding: 3vh;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.b4 img {
+    width: 35vh;
+    height: 35vh;
+    padding: 5vh;
+}
+
+.b4 :hover {
+    transform: translateY(-10px);
+    cursor: pointer;
 }
