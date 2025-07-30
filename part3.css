@@ -95,3 +95,22 @@ input::placeholder{
 .drop a:hover {
     background-color: #583f1c;
 }
+
+.b1 {
+    background-color: var(--caixa-esquerda);
+    height: 20vh;
+    width: 10vh;
+    margin: 6vh;
+}
+
+.b1 h2 {
+    font-size: 20vh;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.b1 img {
+    width: 5vh;
+    height: 5vh;
+    padding: 2vh;
+}
