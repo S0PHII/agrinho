@@ -407,7 +407,7 @@ footer img {
 
 
 
-@media screen and (width: 1360px ) {
+@media (width: 1360px ) {
         .sub {
         position: absolute;
         font-size: 15px;
