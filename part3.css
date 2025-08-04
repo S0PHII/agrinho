@@ -214,3 +214,10 @@ input::placeholder{
     transform: translateY(-10px);
     cursor: pointer;
 }
+
+@media (width: 1360px ) {
+        
+.logoMaçazinha {
+    margin-left: 568px;
+
+} }
