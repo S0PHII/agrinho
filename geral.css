@@ -409,43 +409,6 @@ footer img {
 
 @media (width: 1360px ) {
         
-.caixote video {
-    margin-top: 22vh;
-    margin-left: 5vh;
-}
-
-.cabeçalho h1{
-    font-size: 8vh; margin-left: 4vh; align-items: center; color: var(--fundo-principal);
-}
-
-.logoMaçazinha {
-        display: flex;
-        position: absolute;
-        margin-left: 516px;
-        margin-top: 7px;
-        height: 52px;
-        width: 61px;
-
-}
-
-    .input-fiel {
-       margin-top: 17px;
-        margin-left: 95vh;
-        height: 28px;
-        width: 606px; }
-
-.lupinha {
-            margin-left: 186vh;
-}
-
-.drop {
-    margin-left: 119vh;
-}
-.caixa1 img {
-    margin-top: 1vh;
-
-}
-}
 
 
 
