@@ -409,9 +409,16 @@ footer img {
 
 @media (width: 1360px ) {
         
+.logoMaçazinha {
+    margin-left: 568px;
 
+}
 
+.caixa1 img {
+    margin-top: 1vh
+}
 
+}
 
 
 
