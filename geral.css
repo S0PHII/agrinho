@@ -254,7 +254,10 @@ color: #823829;
    margin-bottom: 6vh;
    height: 111vh;
 }
+.comun {
+   font-size: 9vh; margin-left: 4vh; align-items: center; color: var(--fundo-principal); 
 
+}
 .not1 {
        background-color: var(--salmão);
     position: absolute;
